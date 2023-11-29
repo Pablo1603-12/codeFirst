@@ -1,0 +1,8 @@
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.csproj.AssemblyReference.cache
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.AssemblyInfoInputs.cache
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.AssemblyInfo.cs
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.RazorAssemblyInfo.cache
+C:\Users\Puesto19\source\repos\BibliotecaCodeFirst\BibliotecaCodeFirst\obj\Debug\net8.0\BibliotecaCodeFirst.RazorAssemblyInfo.cs
